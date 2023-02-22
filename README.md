@@ -1,7 +1,16 @@
 # JNP1-Projects
-Projects created as part of the "Languages and tools for programming I" course held in the academic year 2022/2023 at MIM UW.
+Projects created as part of the "Languages and tools for programming I" course 
+held in the academic year 2022/2023 at MIM UW.
 
-On this subject, we explored the secrets of the C++ language. The classes consisted of writing projects in groups of two or three (except for the last task).
+On this subject, we explored the secrets of the C++ language. The classes 
+consisted of writing projects in groups of two or three (except for the last 
+task).
+
+In the table I put information about the co-authors of the tasks and the number 
+of points obtained.
+
+Below you will find short descriptions of each task and a list of related
+topics.
 
 | TASK           | CO-AUTHORS                                   | TESTS          | CODE REVIEW    |
 | :------------: | :------------------------------------------: | :------------: | :------------: |
