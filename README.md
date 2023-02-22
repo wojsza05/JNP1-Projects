@@ -41,3 +41,13 @@ in the natural environment.
 
 _Topics_: Templates, classes, constexpr functions, templates with variable 
 number of arguments, fold expressions.
+
+## kvfifo
+
+The goal of this task was to implement a container pattern that behaves like a 
+fifo queue, where each element has a key assigned to it. This container should 
+provide strong exception-resistance guarantees and implement copy-on-write 
+semantics.
+
+_Topics_: Copy-on-write, move semantics, smart pointers, exceptions, STL, 
+templates.
