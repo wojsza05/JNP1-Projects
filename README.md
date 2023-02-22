@@ -18,3 +18,10 @@ The task was to implement a program that supports the hit list. Tracks are
 numbered with integers from 1 to 99999999.
 
 _Topics_: STL, regex
+
+## hash
+
+The task was to write a "hash" module in C++ that provides hash tables of 
+uint64_t type sequences in C.
+
+_Topics_: More STL, merging C++ code with C code, initializing global objects.
