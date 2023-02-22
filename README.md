@@ -55,7 +55,16 @@ templates.
 ## worldcup
 
 The task was to create a program simulating a board game about the football 
-world cup. The worldcup.h file was provided by the authors of the task.
+world cup. The `worldcup.h` file was provided by the authors of the task.
 
 _Topics_: Object-oriented programming in C++, many classes, inheritance, 
 exceptions.
+
+## images
+
+The task was to write a module useful in creating functional images. The files 
+`bmp.*`, `color.*`, `coordinate.*` and `example.cc` were provided by the authors 
+of the task.
+
+_Topics_: Functional programming in C++, lambda expressions, templates, fold 
+expressions.
