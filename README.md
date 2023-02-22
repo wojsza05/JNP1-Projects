@@ -12,3 +12,9 @@ On this subject, we explored the secrets of the C++ language. The classes consis
 | **_kvfifo_**   | [@edokimok](https://github.com/edokimok)     | **4** / 6 _pt_ | **4** / 4 _pt_ |
 | **_worldcup_** | [@JKuziola](https://github.com/JKuziola)     | **6** / 6 _pt_ | **4** / 4 _pt_ |
 | **_images_**   | -                                            | **4** / 6 _pt_ | **4** / 4 _pt_ |
+
+## top7
+The task was to implement a program that supports the hit list. Tracks are 
+numbered with integers from 1 to 99999999.
+
+_Topics_: STL, regex
