@@ -51,3 +51,11 @@ semantics.
 
 _Topics_: Copy-on-write, move semantics, smart pointers, exceptions, STL, 
 templates.
+
+## worldcup
+
+The task was to create a program simulating a board game about the football 
+world cup. The worldcup.h file was provided by the authors of the task.
+
+_Topics_: Object-oriented programming in C++, many classes, inheritance, 
+exceptions.
