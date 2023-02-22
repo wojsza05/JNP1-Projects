@@ -17,7 +17,7 @@ On this subject, we explored the secrets of the C++ language. The classes consis
 The task was to implement a program that supports the hit list. Tracks are 
 numbered with integers from 1 to 99999999.
 
-_Topics_: STL, regex
+_Topics_: STL, regex.
 
 ## hash
 
@@ -33,3 +33,11 @@ of francs.
 
 _Topics_: Object-oriented programming in C++, classes, constructors, operators 
 overloading, exceptions, initialization lists, keywords: const, constexpr, etc.
+
+## organism
+
+The goal of the task was to write code to simulate the interaction of organisms 
+in the natural environment.
+
+_Topics_: Templates, classes, constexpr functions, templates with variable 
+number of arguments, fold expressions.
