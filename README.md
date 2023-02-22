@@ -25,3 +25,11 @@ The task was to write a "hash" module in C++ that provides hash tables of
 uint64_t type sequences in C.
 
 _Topics_: More STL, merging C++ code with C code, initializing global objects.
+
+## moneybag
+
+The task was to implement the class Moneybag representing purses in the country 
+of francs.
+
+_Topics_: Object-oriented programming in C++, classes, constructors, operators 
+overloading, exceptions, initialization lists, keywords: const, constexpr, etc.
